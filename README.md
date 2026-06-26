@@ -10,7 +10,8 @@ This project is an extension of my previous **DonorX Blood Donation Application*
 
 ## 📊 Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1278" height="719" alt="DonorX dashboard" src="https://github.com/user-attachments/assets/a1f71889-7a43-4f0c-b1c1-a1badfd8b35a" />
+
 
 ---
 
